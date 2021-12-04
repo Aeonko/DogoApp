@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DogoApp</string>
+    <string name="select_dog_breed">Select a dog breed</string>
+    <string name="error_happend_fatching_data">"Error while fatching data: "</string>
+    <string name="loading_breeds">Loading breeds...</string>
+</resources>
